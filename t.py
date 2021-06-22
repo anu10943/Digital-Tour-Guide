@@ -1,8 +1,11 @@
-#open file in conda
-#conda create -n venv
-#conda activate venv
-#pip install opency-python imutils numpy scikit-learn
-# -uses opencv 3.14 and python 3.9
+#install Anaconda in your system
+#in 'conda prompt', navigate to a folder, download this .py file to that folder
+#Commands to be executed in conda prompt
+#>conda create -n venv
+#>conda activate venv
+#>pip install opency-python imutils numpy scikit-learn
+#>python t.py
+
 
 
 # organize imports
